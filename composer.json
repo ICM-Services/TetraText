@@ -1,6 +1,6 @@
 {
-	"name": "regulus/tetra-text",
-	"description": "A small text/string formatting composer package for Laravel 5 that formats numeric values, money values, phone numbers, and more.",
+	"name": "icm-services/tetra-text",
+	"description": "Fork of Regulus TetraText for Laravel 6 that formats numeric values, money values, phone numbers, and more.",
 	"license": "MIT",
 	"authors": [
 		{
@@ -10,7 +10,7 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"laravel/framework": "5.*",
+		"laravel/framework": "6.*",
 
 		"ezyang/htmlpurifier": ">=4.8.0"
 	},
